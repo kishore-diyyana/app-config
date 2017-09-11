@@ -12,7 +12,7 @@ logging:
       io:
        pivotal: INFO
 
-greeting:
+abc:
    displayFortune: true
 
 quoteServiceURL: http://quote-service-dev.cfapps.io/quote
